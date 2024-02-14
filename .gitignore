@@ -1,0 +1,6 @@
+CMakeLists.txt.user
+/debug
+/release
+/legacy
+/tests
+
